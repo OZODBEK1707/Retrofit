@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">restapi</string>
+    <string name="matn">matn</string>
+    <string name="muddati">muddati</string>
+    <string name="qo_shish">qo\'shish</string>
+    <string name="sarlavha">sarlavha</string>
+</resources>
